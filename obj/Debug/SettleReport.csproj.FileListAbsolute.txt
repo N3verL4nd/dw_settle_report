@@ -1,0 +1,13 @@
+C:\Users\N3verL4nd\Desktop\SettleReport\bin\Debug\SettleReport.exe.config
+C:\Users\N3verL4nd\Desktop\SettleReport\bin\Debug\SettleReport.exe
+C:\Users\N3verL4nd\Desktop\SettleReport\bin\Debug\SettleReport.pdb
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.csproj.AssemblyReference.cache
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.PasswordForm.resources
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.SettleReportForm.resources
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.Properties.Resources.resources
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.WaitForm.resources
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.csproj.GenerateResource.cache
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.csproj.CoreCompileInputs.cache
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.csproj.CopyComplete
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.exe
+C:\Users\N3verL4nd\Desktop\SettleReport\obj\Debug\SettleReport.pdb
